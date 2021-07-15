@@ -179,4 +179,5 @@ Jul 15 19:58:42 nginx systemd[1]: Started nginx - high performance web server.
 Hint: Some lines were ellipsized, use -l to show in full.
 ~~~
 18. Validamos ingresando a un navegador y ponemos la IP:
+
     ![Navegador](./Nav.PNG)
